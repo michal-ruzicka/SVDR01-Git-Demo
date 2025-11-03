@@ -1,2 +1,3 @@
+Přidaný řádek na začátek
 Obsah 2
-Další obsah
+Další jinak změněný obsah
